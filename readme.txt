@@ -1,0 +1,1 @@
+Detection of objects from a stationary camera above the highway. Algorithm created using opencv and python.
